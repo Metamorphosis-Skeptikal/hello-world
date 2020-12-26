@@ -1,2 +1,4 @@
 # hello-world
-this is my first repository 
+my first repository 
+
+I'm from Brazil, in a city, Camboriú, here is great.
